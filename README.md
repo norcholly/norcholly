@@ -1,1 +1,1 @@
-https://tryhackme.com/p/cozux
+https://tryhackme.com/p/cozuxhub
